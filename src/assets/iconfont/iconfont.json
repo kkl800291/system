@@ -1,0 +1,86 @@
+{
+  "id": "3804411",
+  "name": "外卖管理",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1163",
+      "name": "不可见",
+      "font_class": "bukejian",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "145442",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "383630",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1870111",
+      "name": "密码",
+      "font_class": "mima1",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "8655874",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "1429",
+      "name": "皇冠",
+      "font_class": "home",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "577334",
+      "name": "店铺",
+      "font_class": "shop",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "2959116",
+      "name": "账号管理",
+      "font_class": "account",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "7160376",
+      "name": "商品",
+      "font_class": "goods",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7216345",
+      "name": "统计",
+      "font_class": "total",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11677402",
+      "name": "民族风-订单",
+      "font_class": "order",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    }
+  ]
+}
